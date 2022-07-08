@@ -28,6 +28,9 @@
 
 14. $find . -type f -name "hello*
 
+
+//Hiiii
+
 15. $ls -l | wc -l
 
 16. $find . -type f -empty
